@@ -1,0 +1,1 @@
+OMNIService.csproj içinde   <Deterministic>false</Deterministic> yapıldı. (versiyonlama için)
